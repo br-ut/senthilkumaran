@@ -25,11 +25,13 @@ h1 {
   margin: 0;
 }
 h2{
-  font-size: 3vmin;
   text-align: center;
-  left: 35.5%;
-  top: 51%;
+  left: 50%;
+  top: 55%;
   position: absolute;
+  line-height: 1;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 3vmin;
 }
 
 .panel-wrap {
